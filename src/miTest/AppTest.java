@@ -48,7 +48,7 @@ class AppTest {
 	public void test_recorrerElementos() throws Exception {
 		boolean condicion = univ.recorrer_elementos();
 		assertTrue(condicion, "Recorrido exitoso");
-		assertFalse(condicion, "Recorrido fallido");
+		//assertFalse(condicion, "Recorrido fallido");
 		
 	}
 
